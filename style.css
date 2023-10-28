@@ -1,0 +1,23 @@
+.banner {
+    background: url("me.jpeg")
+      no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+  }
+  .kontak {
+    background: url("me.jpeg") no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #fff;
+  }
+  .tombol{
+    background-color: rgb(253, 253, 255);
+  }
+  .tabel{
+    background-color: rgb(187, 186, 178);
+    margin: 10px;
+    padding: 10px;
+  }
